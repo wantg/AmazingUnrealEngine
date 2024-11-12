@@ -1,4 +1,4 @@
-# AmazingUnrealEngine
+# Amazing Unreal Engine
 
 ## Visual
 
@@ -29,8 +29,20 @@
 - Modular Weapon Pieces
 - Modular Weapon Presets
 
+## Content Browser
+
+### [Asset Thumbnails plugin](https://www.fab.com/listings/43ba3d3f-7ccf-4798-822b-dd31df40f14e)
+
+- Set custom Thumbnail and Title
+
 ## UI
 
 ### [Slate Icon Browser](https://www.fab.com/listings/04eb0964-3152-412f-85be-fdbfbda56425)
 
 - Browse Unreal Engine's Editor icons/brushes
+
+## Widget
+
+### [Blueprint Color Picker](https://www.fab.com/listings/a160da4d-3d44-4c80-b2c9-2d60d1c73b06)
+
+- Color Picker Widget
