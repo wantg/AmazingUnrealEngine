@@ -46,3 +46,9 @@
 ### [Blueprint Color Picker](https://www.fab.com/listings/a160da4d-3d44-4c80-b2c9-2d60d1c73b06)
 
 - Color Picker Widget
+
+## Debug
+
+### [Debug Function Library](https://www.fab.com/listings/d731522f-c5b8-4323-bd4a-2f399a80bae4)
+
+- Print log with various var in one Blueprint Node
